@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Soccer Scoreboard</string>
+    <string name="teamAScoreText">0</string>
+    <string name="team_b_score_text">0</string>
+    <string name="team_a_name_text">Home Team</string>
+    <string name="team_b_name_text">Visiting Team</string>
+    <string name="team_b_add_text">+1 Goal</string>
+    <string name="team_b_subtract_text">-1 Goal</string>
+    <string name="team_a_add_text">+1 Goal</string>
+    <string name="team_a_subtract_text">-1 Goal</string>
+    <string name="reset_button_text">Reset</string>
+</resources>
